@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home'
+let g:netrw_dirhist_2='/'
+let g:netrw_dirhist_3='/home/subhasis'
+let g:netrw_dirhist_4='/home/subhasis/DEV'
+let g:netrw_dirhist_5='/home/subhasis/DEV/VUEJS'
+let g:netrw_dirhist_6='/home/subhasis/DEV/VUEJS/server'
+let g:netrw_dirhist_7='/home/subhasis/DEV/VUEJS/server/db'
+let g:netrw_dirhist_8='/home/subhasis/DEV/VUEJS/server'
